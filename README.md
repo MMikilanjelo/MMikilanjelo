@@ -45,7 +45,7 @@ I specialize in **Unity client architecture** and distributed **ASP.NET Core** b
 ---
 
 ### 📈 Current Learning Path
-* **Rust & Unreal Engine:** Expanding my low-level engineering and engine-agnostic logic skills.
+* **Rust** Expanding my low-level engineering and engine-agnostic logic skills.
 * **Big Data Telemetry:** Exploring Airflow and Trino for learning telemetry in educational startups.
 
 ---
@@ -54,10 +54,3 @@ I specialize in **Unity client architecture** and distributed **ASP.NET Core** b
 * **Portfolio:** [sites.google.com/view/qr1e/](http://sites.google.com/view/qr1e/)
 * **Email:** [qr1e@ukr.net](mailto:qr1e@ukr.net)
 * **GitHub:** [MMikilanjelo](https://github.com/MMikilanjelo)
-
----
-
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMikilanjelo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
